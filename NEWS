@@ -1,4 +1,4 @@
-1.9
+name="itemIconPadding">@dimen/mtrl_navigation_item_icon_padding</item>1.9
 ====
 * added basic nvdec support
 * added Pipewire screen capture
@@ -269,7 +269,9 @@ v0.2.1
 * Performance optimizations for Xvideo display device
 * 28 November 2002 (demonstrated at SuperComputing 2002)
 
-0.1.0
+* added 10 and 12 bit and RGB video computer/support/os/run.program file 
+
+10.0.1.0
 =====
 * Add "-m <mtu>" option to select transmit MTU
 * Add TFRC code
